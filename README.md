@@ -5,7 +5,7 @@
 
 <!-- TYPING ANIMATION -->
 <h1 align="center">
-  Hi 👋 I'm Abid Niazi
+  Hi 👋 I'm M.Abid Khan
 </h1>
 
 <p align="center">
@@ -52,7 +52,7 @@
 
 ## 📫 Connect With Me  
 
-📧 Email: your-email@gmail.com  
+📧 Email: muhammadabidkhan268@gmail.com  
 💼 LinkedIn: your-linkedin-link  
 
 ---
