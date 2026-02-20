@@ -53,7 +53,7 @@
 ## 📫 Connect With Me  
 
 📧 Email: muhammadabidkhan268@gmail.com  
-💼 LinkedIn: your-linkedin-link  
+💼 LinkedIn: https://www.linkedin.com/in/muhammad-abid-khan-09133135b/
 
 ---
 
